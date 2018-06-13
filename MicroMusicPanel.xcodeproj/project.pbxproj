@@ -15,7 +15,7 @@
 		8E37A30720CF7799001803F2 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E37A30620CF7799001803F2 /* TabBarViewController.swift */; };
 		8E37A30920CF79C0001803F2 /* MusicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E37A30820CF79C0001803F2 /* MusicView.swift */; };
 		8E37A30B20CFA455001803F2 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E37A30A20CFA455001803F2 /* UIView+Extension.swift */; };
-		8E37A31520D0C63C001803F2 /* CharityCode.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 8E37A31420D0C63C001803F2 /* CharityCode.JPG */; };
+		8E37A31520D0C63C001803F2 /* 赞赏码.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 8E37A31420D0C63C001803F2 /* 赞赏码.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +29,7 @@
 		8E37A30620CF7799001803F2 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		8E37A30820CF79C0001803F2 /* MusicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicView.swift; sourceTree = "<group>"; };
 		8E37A30A20CFA455001803F2 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
-		8E37A31420D0C63C001803F2 /* CharityCode.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CharityCode.JPG; sourceTree = "<group>"; };
+		8E37A31420D0C63C001803F2 /* 赞赏码.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "赞赏码.JPG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 		8E37A2F220CF7614001803F2 /* MicroMusicPanel */ = {
 			isa = PBXGroup;
 			children = (
-				8E37A31420D0C63C001803F2 /* CharityCode.JPG */,
+				8E37A31420D0C63C001803F2 /* 赞赏码.JPG */,
 				8E37A30820CF79C0001803F2 /* MusicView.swift */,
 				8E37A2F520CF7614001803F2 /* ViewController.swift */,
 				8E37A30620CF7799001803F2 /* TabBarViewController.swift */,
@@ -145,7 +145,7 @@
 				8E37A2FE20CF7615001803F2 /* LaunchScreen.storyboard in Resources */,
 				8E37A2FB20CF7615001803F2 /* Assets.xcassets in Resources */,
 				8E37A2F920CF7614001803F2 /* Main.storyboard in Resources */,
-				8E37A31520D0C63C001803F2 /* CharityCode.JPG in Resources */,
+				8E37A31520D0C63C001803F2 /* 赞赏码.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
