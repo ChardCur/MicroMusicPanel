@@ -26,8 +26,6 @@ class TabBarViewController: UITabBarController {
     var musicViewBottomConstraint: NSLayoutConstraint!
     
     func showMusicView() {
-        print("view")
-        
         miniPanelTopConstraint.isActive = false
         maxPanelTopConstraint.isActive = true
         maxPanelTopConstraint.constant = 0
